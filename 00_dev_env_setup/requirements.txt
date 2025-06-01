@@ -1,0 +1,7 @@
+pandas
+datasets
+evaluate
+transformers
+sentencepiece
+torch==2.2.2 --index-url https://download.pytorch.org/whl/cpu
+tensorflow==2.15.0
